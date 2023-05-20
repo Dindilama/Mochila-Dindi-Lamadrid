@@ -1,0 +1,8 @@
+CHEATSHEET GIT GITHUB
+Mostrar:
+ls: lista los archivos en el directorio o carpeta
+ls -a: lista todos los archivos, incluyendo los archivos ocultos
+ls -l: muestra toda la información de una carpeta: usuario, grupo, permisos, tamaño, fecha y hora de creación.
+ls -R: Muestra las carpetas y los archivos contenidos en ellos de manera recursiva.
+pwd: Muestra la carpeta en la que se está trabajando actualmente.
+more [Nombre del archivo]: Muestra el contenido de un archivo.
