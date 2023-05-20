@@ -1,5 +1,6 @@
 CHEATSHEET GIT GITHUB
-Mostrar:
+
+Comandos para mostrar:
 ls: lista los archivos en el directorio o carpeta
 ls -a: lista todos los archivos, incluyendo los archivos ocultos
 ls -l: muestra toda la información de una carpeta: usuario, grupo, permisos, tamaño, fecha y hora de creación.
