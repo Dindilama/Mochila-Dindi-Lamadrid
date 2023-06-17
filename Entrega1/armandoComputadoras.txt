@@ -1,0 +1,21 @@
+Gama baja - Intel
+Procesador: Core i3 7100
+Placa madre: ASUS TUF B360M-PLUS 
+Memoria principal: kingston 8 gb dd4
+Memoria secundaria: disco 1 tb sata
+
+Gama media - Intel
+Procesador: GeForce GT 1030 
+Placa madre: Gt 1030 2 GB DDR4 
+Memoria principal: 2 GB
+Memoria secundaria: GDDR5 a 6 GHz
+GPU: GeForce GT 1030 2GD4 LP OC
+
+Gama alta - Intel
+Procesador: Core i9-11900k
+Placa madre: 11900
+Memoria principal: 350 MHz
+Memoria secundaria: 3.50 GHz
+GPU: 64 GB
+
+
